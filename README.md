@@ -1,4 +1,4 @@
-👋 Hola, soy @lilifernandez91, de profesión Fonoaudióloga 🗣. 
+👋 Hola, soy @lilifernandez91, de profesión Fonoaudióloga 🗣 y Junior Frontend Developer 👩🏼‍💻
 
 📚 He cursado un bootcamp de "Programación Front-End" 👩🏼‍💻, en el cual he descubierto un apasionante mundo.
 
