@@ -1,6 +1,6 @@
 👋 Hola, soy @lilifernandez91, Junior Frontend Developer 👩🏼‍💻 y Fonoaudióloga 🗣.
 
-📚 He cursado un bootcamp de "Programación Front-End" 👩🏼‍💻, en el cual he descubierto un apasionante mundo.
+📚 Al cursar un bootcamp de "Programación Front-End" 👩🏼‍💻, descubrí el maravilloso mundo del desarrollo web y esto ha hecho que me levante todos los días con ganas de seguir estudiando, de lanzarme a nuevos retos y de amar esta nueva experiencia.
 
 👀 Me considero una persona organizada, capaz de adaptarme a cualquier circunstancia y dar siempre lo mejor de mí. 
 
