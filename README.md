@@ -1,12 +1,19 @@
-👋 Hola, soy @lilifernandez91, Junior Frontend Developer 👩🏼‍💻 y Fonoaudióloga 🗣.
+👋 Hola, soy @lilifernandez91, una Junior Frontend Developer 👩🏼‍💻 y Fonoaudióloga 🗣 apasionada por el mundo del desarrollo web.
 
-📚 Al cursar un bootcamp de "Programación Front-End" 👩🏼‍💻, descubrí el maravilloso mundo del desarrollo web y esto ha hecho que me levante todos los días con ganas de seguir estudiando, de lanzarme a nuevos retos y de amar esta nueva experiencia.
+📚 Durante mi formación en un bootcamp de "Programación Front-End" 👩🏼‍💻, descubrí mi amor por este campo y desde entonces, he estado emocionada por seguir aprendiendo y enfrentando nuevos desafíos.
 
-👀 Me considero una persona organizada, capaz de adaptarme a cualquier circunstancia y dar siempre lo mejor de mí. 
+👀 Me considero una persona organizada y adaptable, siempre dispuesta a dar lo mejor de mí en cualquier situación. Además, valoro trabajar en equipo y promover un ambiente positivo.  
 
-💚 Me esfuerzo por trabajar en equipo y fomentar valores positivos.
+💚 ¡Espero tener la oportunidad de compartir mi entusiasmo por la programación y contribuir a proyectos emocionantes!
 
 <!---
 lilifernandez91/lilifernandez91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
+
+
