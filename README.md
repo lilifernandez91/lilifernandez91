@@ -1,4 +1,4 @@
-👋 Hola, soy @lilifernandez91, Frontend Developer Jr. 👩🏼‍💻 y Fonoaudióloga 🗣 apasionada por el mundo del desarrollo web.
+👋 Hola, soy @lilifernandez91, Frontend Developer Jr. 👩🏼‍💻 y Fonoaudióloga 🗣,  apasionada por el mundo del desarrollo web.
 
 📚 Durante mi formación en un bootcamp de "Programación Front-End" 👩🏼‍💻, descubrí mi amor por este campo y desde entonces, he estado emocionada por seguir aprendiendo y enfrentando nuevos desafíos.
 
